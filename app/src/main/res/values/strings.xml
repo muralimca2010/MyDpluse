@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyDpluse</string>
+    <string name="prime">Prime</string>
+
+    <string-array name="seasons">
+        <item>Season 1</item>
+        <item>Season 2</item>
+        <item>Season 3</item>
+        <item>Season 4</item>
+    </string-array>
+    <string name="selected_item">Selected item:</string>
+</resources>
